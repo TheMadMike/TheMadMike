@@ -7,6 +7,6 @@ currently, a student of computer engineering at Wrocław University of Science a
 
 * 🤖 embedded systems
 
-* 📟 digital electronics 
+* 📟 digital electronics  
 
-* 🖥️ computer science in general
+You can contact me by e-mail: m.gibas2407@gmail.com
